@@ -12,9 +12,9 @@ Using the credit card credit dataset from LendingClub, we first oversample the d
 <img width="883" alt="RandomOverSampler" src="https://user-images.githubusercontent.com/91625564/153980541-9cbc9a25-6895-4abf-b74a-55d8f9822af6.png">
 
 
-The balanced accuracy score for the RandomOverSampler is 65%
-The high-risk precision is about 1% only with 69% recall and F1 of 2%.
-The low-risk precision is almost 100% with a recall of 59%.
+- The balanced accuracy score for the RandomOverSampler is 65%
+- The high-risk precision is about 1% only with 66% recall and F1 of 2%.
+- The low-risk precision is almost 100% with a recall of 61%.
 
 ### SMOTE
 
@@ -22,8 +22,8 @@ The low-risk precision is almost 100% with a recall of 59%.
 
 
 The balanced accuracy score  is 65%
-The high-risk precision is about 1% only with 69% recall and F1 of 2%.
-The low-risk precision is almost 100% with a recall of 59%.
+The high-risk precision is about 1% only with 62% recall and F1 of 2%.
+The low-risk precision is almost 100% with a recall of 69%.
 
 ### Cluster Centroids
 
